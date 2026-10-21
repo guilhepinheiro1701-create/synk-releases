@@ -1,4 +1,4 @@
 {
-  "backendUrl": null,
-  "notice": "O servidor do Synk ainda está sendo configurado. Volte em breve!"
+  "backendUrl": "https://network-exp-dried-garbage.trycloudflare.com",
+  "notice": null
 }
